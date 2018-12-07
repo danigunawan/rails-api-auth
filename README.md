@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Reference
 
-Things you may want to cover:
+1. JWT and KNOCK [HERE](https://engineering.musefind.com/building-a-simple-token-based-authorization-api-with-rails-a5c181b83e02)
 
-* Ruby version
+2. Forget Password [HERE](https://medium.com/binar-academy/forgot-password-feature-on-rails-api-8e4a7368c59)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+3. Send Email [HERE] (https://medium.com/@pascales/welcome-email-for-new-user-using-action-mailer-becdb43ee6a)
