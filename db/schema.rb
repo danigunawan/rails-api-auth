@@ -21,6 +21,8 @@ ActiveRecord::Schema.define(version: 2018_12_03_082939) do
     t.string "password_digest"
     t.string "role", default: "user", null: false
     t.datetime "last_login"
+    t.string "reset_password_token"
+    t.datetime "reset_password_sent_at"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
